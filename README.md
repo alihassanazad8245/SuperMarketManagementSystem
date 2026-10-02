@@ -230,7 +230,7 @@ SuperMarketManagementSystem
 ## Print Bill
 
 <p align="center">
-  <img width="100%" alt="Print Bill" src="https://github.com/user-attachments/assets/b66fa68b-5801-47ba-94e1-8051d26e2a61" />
+  <img width="55%" alt="Print Bill" src="https://github.com/user-attachments/assets/b66fa68b-5801-47ba-94e1-8051d26e2a61" />
 </p>
 
 ---
@@ -238,7 +238,7 @@ SuperMarketManagementSystem
 ## Database
 
 <p align="center">
-  <img width="100%" alt="Database" src="https://github.com/user-attachments/assets/ff692102-f9cb-4ab6-b674-be91ee6eb008" />
+  <img width="45%" alt="Database" src="https://github.com/user-attachments/assets/ff692102-f9cb-4ab6-b674-be91ee6eb008" />
 </p>
 
 ## Tables
@@ -246,19 +246,19 @@ SuperMarketManagementSystem
 ### User
 
 <p align="center">
-  <img width="100%" alt="User Table" src="https://github.com/user-attachments/assets/0a865051-a606-4823-9c6d-bf370e067015" />
+  <img width="55%" alt="User Table" src="https://github.com/user-attachments/assets/0a865051-a606-4823-9c6d-bf370e067015" />
 </p>
 
 ### Products
 
 <p align="center">
-  <img width="100%" alt="Products Table" src="https://github.com/user-attachments/assets/68b0a8d9-1e16-4c23-8377-146d84544c78" />
+  <img width="60%" alt="Products Table" src="https://github.com/user-attachments/assets/68b0a8d9-1e16-4c23-8377-146d84544c78" />
 </p>
 
 ### Billing
 
 <p align="center">
-  <img width="100%" alt="Billing Table" src="https://github.com/user-attachments/assets/5773d37d-d65b-4ef8-84ad-771bfbe4ba8e" />
+  <img width="60%" alt="Billing Table" src="https://github.com/user-attachments/assets/5773d37d-d65b-4ef8-84ad-771bfbe4ba8e" />
 </p>
 
 ---
@@ -266,7 +266,7 @@ SuperMarketManagementSystem
 ## Our Project Application Icon
 
 <p align="center">
-  <img width="100%" alt="Project Application Icon" src="https://github.com/user-attachments/assets/01d35f15-5f73-4741-91be-e186550c6c9b" />
+  <img width="40%" alt="Project Application Icon" src="https://github.com/user-attachments/assets/01d35f15-5f73-4741-91be-e186550c6c9b" />
 </p>
 
 
