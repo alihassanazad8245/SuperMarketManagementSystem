@@ -189,56 +189,85 @@ SuperMarketManagementSystem
 
 ## Starting Screen
 
-<img width="305" height="220" alt="image" src="https://github.com/user-attachments/assets/a92bba9c-ad5d-4278-bfb6-a3f9d68673a6" />
+<p align="center">
+  <img width="100%" alt="Starting Screen" src="https://github.com/user-attachments/assets/a92bba9c-ad5d-4278-bfb6-a3f9d68673a6" />
+</p>
 
 ---
 
 ## Login Interface
 
-<img width="493" height="238" alt="image" src="https://github.com/user-attachments/assets/5e46310e-9c06-4e43-9744-ab140d14ad40" />
+<p align="center">
+  <img width="100%" alt="Login Interface" src="https://github.com/user-attachments/assets/5e46310e-9c06-4e43-9744-ab140d14ad40" />
+</p>
 
 ---
 
 ## Manage Seller
 
-<img width="461" height="297" alt="image" src="https://github.com/user-attachments/assets/7d81392b-7d81-41e9-a3b0-10663b24fa66" />
+<p align="center">
+  <img width="100%" alt="Manage Seller" src="https://github.com/user-attachments/assets/7d81392b-7d81-41e9-a3b0-10663b24fa66" />
+</p>
+
+---
 
 ## Manage Products
 
-<img width="495" height="314" alt="image" src="https://github.com/user-attachments/assets/6263c65e-4edb-4961-9118-3311de3f801d" />
+<p align="center">
+  <img width="100%" alt="Manage Products" src="https://github.com/user-attachments/assets/6263c65e-4edb-4961-9118-3311de3f801d" />
+</p>
 
 ---
 
 ## Billing System
 
-<img width="493" height="266" alt="image" src="https://github.com/user-attachments/assets/ad192ade-f6b6-49fe-b4b4-ad4f408d713a" />
+<p align="center">
+  <img width="100%" alt="Billing System" src="https://github.com/user-attachments/assets/ad192ade-f6b6-49fe-b4b4-ad4f408d713a" />
+</p>
+
+---
 
 ## Print Bill
-<img width="487" height="206" alt="image" src="https://github.com/user-attachments/assets/b66fa68b-5801-47ba-94e1-8051d26e2a61" />
+
+<p align="center">
+  <img width="100%" alt="Print Bill" src="https://github.com/user-attachments/assets/b66fa68b-5801-47ba-94e1-8051d26e2a61" />
+</p>
 
 ---
 
 ## Database
 
-<img width="227" height="377" alt="image" src="https://github.com/user-attachments/assets/ff692102-f9cb-4ab6-b674-be91ee6eb008" />
+<p align="center">
+  <img width="100%" alt="Database" src="https://github.com/user-attachments/assets/ff692102-f9cb-4ab6-b674-be91ee6eb008" />
+</p>
 
 ## Tables
 
-User:
+### User
 
-<img width="356" height="170" alt="image" src="https://github.com/user-attachments/assets/0a865051-a606-4823-9c6d-bf370e067015" />
+<p align="center">
+  <img width="100%" alt="User Table" src="https://github.com/user-attachments/assets/0a865051-a606-4823-9c6d-bf370e067015" />
+</p>
 
-Products:
+### Products
 
-<img width="462" height="247" alt="image" src="https://github.com/user-attachments/assets/68b0a8d9-1e16-4c23-8377-146d84544c78" />
+<p align="center">
+  <img width="100%" alt="Products Table" src="https://github.com/user-attachments/assets/68b0a8d9-1e16-4c23-8377-146d84544c78" />
+</p>
 
-Billing:
+### Billing
 
-<img width="461" height="302" alt="image" src="https://github.com/user-attachments/assets/5773d37d-d65b-4ef8-84ad-771bfbe4ba8e" />
+<p align="center">
+  <img width="100%" alt="Billing Table" src="https://github.com/user-attachments/assets/5773d37d-d65b-4ef8-84ad-771bfbe4ba8e" />
+</p>
 
-## Our Project Application Icon:
+---
 
-<img width="287" height="275" alt="image" src="https://github.com/user-attachments/assets/01d35f15-5f73-4741-91be-e186550c6c9b" />
+## Our Project Application Icon
+
+<p align="center">
+  <img width="100%" alt="Project Application Icon" src="https://github.com/user-attachments/assets/01d35f15-5f73-4741-91be-e186550c6c9b" />
+</p>
 
 
 # ⚙️ How to Run the Project
