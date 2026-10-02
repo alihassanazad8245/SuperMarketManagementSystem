@@ -281,7 +281,7 @@ SuperMarketManagementSystem
 ### Steps:
 
 1. Clone the repository
-git clone https://github.com/your-username/SuperMarketManagementSystem.git
+git clone https://github.com/alihassanazad8245/SuperMarketManagementSystem.git
 2. Open the project in NetBeans.
 3. Configure MySQL database connection.
 4. Run the project.
